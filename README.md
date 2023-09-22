@@ -1,5 +1,4 @@
 # FacialFeature-Identifier-and-Face-Detection-using-Java
-# Facial Recognition Java Application Documentation
 
 ## Introduction
 This documentation provides an overview and usage guide for the Facial Recognition Java Application. This application uses OpenCV to perform facial detection and recognition on images and live camera feed.
