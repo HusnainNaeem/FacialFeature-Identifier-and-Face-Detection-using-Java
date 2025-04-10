@@ -470,7 +470,7 @@ public class DisplayFrame extends javax.swing.JFrame {
                 // Check if the smile rectangle is within the face rectangle
                 if (faceRect.contains(smileRect.tl()) && faceRect.contains(smileRect.br())) {
                     Imgproc.rectangle(inputImage, smileRect, new Scalar(255, 0, 0), 2);
-                    System.out.println("Smile is detected");
+                    System.out.println("Smile is detected...");
                 }
             }
         }
